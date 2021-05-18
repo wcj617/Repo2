@@ -1,0 +1,10 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 8085-52B5
+
+ Directory of C:\Users\wcj61\OneDrive\?? ??\new Project
+
+05/17/2021  06:43 PM    <DIR>          .
+05/17/2021  06:43 PM    <DIR>          ..
+05/17/2021  06:43 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  413,435,777,024 bytes free
